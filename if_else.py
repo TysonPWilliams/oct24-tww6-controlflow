@@ -58,7 +58,7 @@ else:
 #     else:
 #         print('Cannot vote in State 2')
 
-day_of_week = 8
+day_of_week = 5
 
 # if day_of_week == 1:
 #     print('Monday')
